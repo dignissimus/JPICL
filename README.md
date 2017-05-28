@@ -3,7 +3,7 @@
 # Tutorial
 ## Syntax
 methods do not have parentheses around the parameters
-so far there is only one builtin method, the `print` function
+so far there is only one builtin method, the `print` function which takes an unlimited number of parameters
 ```
 print "hello"
 print "I can use multiple" "parameters"
